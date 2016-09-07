@@ -1,7 +1,13 @@
+package main;
+
 /**
  * Created by tanfujun on 9/8/16.
  */
 public class Solution {
+
+    public static void main(String args[]){
+
+    }
 
     public int[] twoSum(int[] nums, int target) {
 

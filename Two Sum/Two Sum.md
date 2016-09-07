@@ -21,11 +21,11 @@ return [0, 1].
 
 
 
-*Solution:*
+*main.main.Solution:*
 
 
 ```
-public class Solution {
+public class main.main.Solution {
     public int[] twoSum(int[] nums, int target) {
 
         int result[] = new int[2];
