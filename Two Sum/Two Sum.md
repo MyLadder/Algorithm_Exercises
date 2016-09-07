@@ -7,7 +7,7 @@ Given an array of integers, return indices of the two numbers such that they add
 
 You may assume that each input would have exactly one solution.
 
-*Example* :
+**Example** :
 
 ```
 
@@ -21,7 +21,7 @@ return [0, 1].
 
 
 
-*main.main.Solution:*
+**Solution:**
 
 
 ```
