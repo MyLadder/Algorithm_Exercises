@@ -24,7 +24,7 @@ return [0, 1].
 **Solution:**
 
 
-```
+```java
 public class main.main.Solution {
     public int[] twoSum(int[] nums, int target) {
 
