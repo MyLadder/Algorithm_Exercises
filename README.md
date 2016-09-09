@@ -11,4 +11,4 @@ This is a project record my algorithm exercises,some from leetcode,some from alg
 |[Median of Two Sorted Arrays](./Median of Two Sorted Arrays/Median of Two Sorted Arrays.md)|leetcode 4|Java|
 |[ZigZag Conversion](./ZigZag Conversion/ZigZag Conversion.md)|leetcode 6|Java|
 |[Reverse Integer](./Reverse Integer/Reverse Integer.md)|leetcode 7|Java|
-|String to Integer (atoi)|./String to Integer (atoi)/String to Integer (atoi).md|leetcode 8|Java|
+|[String to Integer (atoi)](./String to Integer (atoi)/String to Integer (atoi).md)|leetcode 8|Java|
