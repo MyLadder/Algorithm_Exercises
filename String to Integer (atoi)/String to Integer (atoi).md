@@ -11,7 +11,7 @@ Hint: Carefully consider all possible input cases. If you want a challenge, plea
 Notes: It is intended for this problem to be specified vaguely (ie, no given input specs). You are responsible to gather all the input requirements up front.
 
 **Solution:**
-```
+```java
 public class Solution {
     public static void main(String args[]) {
         Solution solution = new Solution();

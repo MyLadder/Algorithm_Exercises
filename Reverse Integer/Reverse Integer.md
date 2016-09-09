@@ -10,7 +10,7 @@ Example1: x = 123, return 321
 Example2: x = -123, return -321
 
 **Solution:**
-```
+```java
    public static void main(String argas[]) {
         Solution solution = new Solution();
         solution.reverse(1534236469);

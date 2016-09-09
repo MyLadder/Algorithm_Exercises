@@ -21,7 +21,7 @@ convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR".
 
 **Solution:**
 
-```
+```java
 public class Solution {
 
     public String convert(String s, int numRows) {
