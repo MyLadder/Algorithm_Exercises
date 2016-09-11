@@ -15,4 +15,5 @@ This is a project record my algorithm exercises,some from leetcode,some from alg
 |[Palindrome Number](./Palindrome Number/Palindrome Number.md)|leetcode 9|Java|
 |[Container With Most Water](./Container With Most Water/Container With Most Water.md)|leetcode 11|Java|
 |[Longest Common Prefix](./Longest Common Prefix/Longest Common Prefix.md)|leetcode 14|Java|
+|[3Sum](./3Sum/3Sum.md)|leetcode 15|Java|
 
