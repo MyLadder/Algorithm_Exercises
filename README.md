@@ -12,3 +12,6 @@ This is a project record my algorithm exercises,some from leetcode,some from alg
 |[ZigZag Conversion](./ZigZag Conversion/ZigZag Conversion.md)|leetcode 6|Java|
 |[Reverse Integer](./Reverse Integer/Reverse Integer.md)|leetcode 7|Java|
 |[String to Integer (atoi)](./String to Integer (atoi)/String to Integer (atoi).md)|leetcode 8|Java|
+|[Palindrome Number](./Palindrome Number/Palindrome Number.md)|leetcode 9|Java|
+|[Container With Most Water](./Container With Most Water/Container With Most Water.md)|leetcode 11|Java|
+
